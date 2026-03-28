@@ -277,7 +277,7 @@ This project reinforces:
 ```
 ├── sql_project1_1.sql          # Complete SQL analysis (14 queries)
 ├── README.md                   # This file
-└── Sample Output/              # Expected query results (optional)
+└── SQL - Retail Sales Analysis_utf.csv         # Dataset 
 ```
 
 ---
