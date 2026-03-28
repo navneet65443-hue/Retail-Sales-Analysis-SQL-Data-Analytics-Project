@@ -189,7 +189,7 @@ This analysis demonstrates skills applicable to:
 createdb retail_sales_db
 
 # 2. Run the SQL script
-psql -U username -d retail_sales_db -f sql_project1_1.sql
+sql project1.l.sql
 
 # 3. Execute queries and analyze results
 ```
