@@ -46,9 +46,6 @@ CREATE TABLE retail_sales (
     total_sale FLOAT NOT NULL
 );
 ```
-
-**Table Size:** ~10,000 transactions | **Time Period:** 2022-2024
-
 ---
 
 ## 🔍 Analysis Highlights
