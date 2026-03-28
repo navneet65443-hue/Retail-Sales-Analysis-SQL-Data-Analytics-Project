@@ -6,7 +6,7 @@
 
 ## 🎯 Project Overview
 
-This project demonstrates **enterprise-grade SQL proficiency** by analyzing 10,000+ retail transactions across multiple categories, uncovering:
+This project demonstrates **enterprise-grade SQL proficiency** by analyzing retail transactions across multiple categories, uncovering:
 - **Revenue patterns** by customer demographics and time periods
 - **Customer segmentation** strategies for targeted marketing
 - **Growth trends** with month-over-month performance metrics
